@@ -46,7 +46,7 @@ public class MyUtil {
     public static String decryptDES(String ciphertext) {
         try {
             // DES算法要求有一个可信任的随机数源，SecureRandom内置两种随机数算法，NativePRNG和SHA1PRNG,
-            // 通过new来初始化，默认来说会使用NativePRNG算法生成随机数，但是也可以配置-Djava.security参数来修改调用的算法，
+            // 通过new来初始化，默认来说会使用NativePRNG算法生成随机数，但是也可以配置java.security参数来修改调用的算法，
             // 如果是/dev/[u]random两者之一就是NativePRNG，否则就是SHA1PRNG。
 //            SecureRandom random = new SecureRandom(); //可替代 偏移ivi
             // 创建一个DESKeySpec对象

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d80932ea-d631-4dfa-a602-cbb7f2fa314a" name="Default Changelist" comment="" />
+    <list default="true" id="d80932ea-d631-4dfa-a602-cbb7f2fa314a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/my/MyUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/my/MyUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bwmJAS90wByhsAmY4aEBTQlKTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OrderPro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -83,6 +90,13 @@
       <updated>1589551455944</updated>
       <workItem from="1589551457210" duration="1924000" />
       <workItem from="1589554406193" duration="5964000" />
+      <workItem from="1589560733744" duration="622000" />
+      <workItem from="1590215705274" duration="1026000" />
+      <workItem from="1590325650546" duration="328000" />
+      <workItem from="1590866578395" duration="614000" />
+      <workItem from="1591879078644" duration="2622000" />
+      <workItem from="1591969573572" duration="615000" />
+      <workItem from="1593026748613" duration="718000" />
     </task>
     <servers />
   </component>
